@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" class="gr__getbootstrap_com">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="bin3.png">
+
+    <title>ecoBIN - smart waste management for cities</title>
+    <!-- Font-icon css-->
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="assets/bootstrap.min.css" rel="stylesheet">
+
+    <link href="assets/starter-template.css" rel="stylesheet">
+  </head>
+
+  <body data-gr-c-s-loaded="true" style="padding-top:0;">
+	<section class="material-half-bg">
+		<div class="cover"></div>
+    </section>
+	<section class="login-content">
+		<div class="logo">
+			<h1>Ecobin</h1>
+		</div>
+		<div class="login-box">
+			<form class="login-form" action="index.php">
+				<h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>SIGN IN</h3>
+				<div class="form-group">
+					<label class="control-label">USERNAME</label>
+					<input class="form-control" placeholder="Email" autofocus="" type="text">				</div>
+				<div class="form-group">
+					<label class="control-label">PASSWORD</label>
+					<input class="form-control" placeholder="Password" type="password">
+				</div>
+				<div class="form-group btn-container">
+					<button class="btn btn-primary btn-block"><i class="fa fa-sign-in fa-lg fa-fw"></i>SIGN IN</button>
+				</div>
+			</form>
+		</div>
+	</section>
+
+    <!-- Core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="assets/popper.min.js"></script>
+    <script src="assets/bootstrap.min.js"></script>
+  
+
+</body></html>
