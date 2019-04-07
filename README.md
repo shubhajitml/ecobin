@@ -21,6 +21,6 @@ password: 1235<br>
 ## Using GIT for the first time: (optional)
 **0. Create a remote, empty repository on Github:** &nbsp; Login into github, Create an empty repo and copy the url (clone/download)&nbsp; <br>
 **1. Initialize the local repo**:&nbsp; Goto your project directory and type &nbsp;  `git init` <br>
-<br>**2. Connect to remote**:&nbsp;  `git remote add origin https://github.com/shubhajitml/smart_attendance.git` <br>
+<br>**2. Connect to remote**:&nbsp;  `git remote add origin https://github.com/shubhajitml/ecobin.git` <br>
 <br>**3. Push your branch to Github:** &nbsp;  `git push origin master` <br>
 
